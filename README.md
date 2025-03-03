@@ -15,9 +15,7 @@ Este repositório contém dashboards interativos desenvolvidos no Power BI para 
 🔹 Simulação de Cenários – Parâmetro de hipóteses para estimar impactos de mudanças nas receitas.
 🔹 Bookmarks e Navegação – Uso de botões e marcadores para alternar entre diferentes visões do dashboard.
 
-📂 Estrutura do Repositório
 📁 Dashboards/ – Arquivo .pbix com os relatórios do Power BI.
-📁 Dados/ – Arquivos .csv com os dados brutos utilizados na análise.
 
 🚀 Como Utilizar
 1️⃣ Faça o download do arquivo .pbix.
